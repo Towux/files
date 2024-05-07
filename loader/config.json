@@ -1,9 +1,9 @@
 {
-    1: {
-        "link": "aHR0cHM6Ly9veHkubmFtZS9kL3paUGg=",
+    "1": {
+        "link": "https://example.com/d/ZzPh",
         "enabled": true
     },
-    2: {
+    "2": {
         "link": "",
         "enabled": false
     }
